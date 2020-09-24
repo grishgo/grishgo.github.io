@@ -3,15 +3,15 @@
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/changelog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://marketplace.redhat.com/control/rcsdocs/usage/creating-docs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://marketplace.redhat.com/control/rcsdocs/usage/navigation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://marketplace.redhat.com/control/rcsdocs/usage/navigation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://marketplace.redhat.com/control/rcsdocs/usage/creating-docs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://marketplace.redhat.com/control/rcsdocs/rcs/architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/usage/shadowing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/rcs/cicd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started/app-details</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://marketplace.redhat.com/control/rcsdocs/rcs/architecture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/rcs/authorization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started/app-details</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started/build</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started/create-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started/package</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://marketplace.redhat.com/control/rcsdocs/getting-started/build</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
